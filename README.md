@@ -2,12 +2,17 @@
 A fully interactive, mobile-responsive 3D simulation of the solar system, built with Next.js, TypeScript, Three.js, and Tailwind CSS. 
 This project brings the solar system to life in your browser with realistic planetary orbits, dynamic speed controls, and smooth animations.
 
-### 📸 Demo
+## 📸 Demo
 Live Demo: [https://solar-system-seven-eta.vercel.app/](https://solar-system-seven-eta.vercel.app/)
 
-![3D Solar System Preview](https://raw.githubusercontent.com/junaidahmedshaikh/Solar-System/public\preview.png)
+## 📸 Preview
 
-### 🚀 Features
+Here’s a screenshot of the simulation in action:
+
+![3D Solar System Preview](https://res.cloudinary.com/difvkvxuy/image/upload/v1751531167/Thumbnail/Screenshot_2025-07-03_135557_e75lpb.png)
+
+
+## 🚀 Features
 🔭 Core Simulation
 The Sun at the center of a 3D scene
 
@@ -20,14 +25,14 @@ Fully responsive layout with Tailwind CSS
 Smooth and performant rendering via WebGL
 
 
-### 🕹️ Interactive Controls
+## 🕹️ Interactive Controls
 Control panel to adjust orbital speed for each planet in real-time
 
 Sliders or input boxes built with vanilla TypeScript
 
 Immediate visual feedback on speed changes
 
-### ✨ Bonus Features (if implemented)
+## ✨ Bonus Features (if implemented)
 ⏯️ Pause/Resume animation toggle
 
 🌌 Starfield background for cosmic ambiance
@@ -37,7 +42,7 @@ Immediate visual feedback on speed changes
 🎥 Click-to-zoom or camera transitions to focus on planets
 
 
-### 🧱 Tech Stack
+## 🧱 Tech Stack
 Framework: Next.js
 
 Language: TypeScript
@@ -48,7 +53,7 @@ Styling: Tailwind CSS
 
 Animations: requestAnimationFrame, THREE.Clock
 
-### 🛠️ Getting Started
+## 🛠️ Getting Started
 1. Clone the repository
 
 ```
@@ -63,7 +68,7 @@ yarn install
 
 ```
 
-### 📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
 Let your creativity orbit freely 🚀🌍🌞
